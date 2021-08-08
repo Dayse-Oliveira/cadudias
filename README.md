@@ -13,7 +13,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dart" height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 </div>
-  
+ 
+ <br>
+ 
   ### Pra conteúdo sobre programação me segue no Dev em Dobro!
  
 <div> 
